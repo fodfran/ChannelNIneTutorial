@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChannelNIneTutorial
+namespace ChannelNineTutorial
 {
     class Program
     {
