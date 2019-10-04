@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelNineTutorial", "ChannelNIneTutorial\ChannelNIneTutorial.csproj", "{0DD5B11F-0AAF-452A-88A1-098D582C90E9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelNIneTutorial", "ChannelNIneTutorial\ChannelNIneTutorial.csproj", "{0DD5B11F-0AAF-452A-88A1-098D582C90E9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatesAndTimes", "DatesAndTimes\DatesAndTimes.csproj", "{18ED3B9A-B62D-4B6A-8E10-FB42D9B42A27}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingScope", "UnderstandingScope\UnderstandingScope.csproj", "{FCC2D6BA-5BF9-424D-8E6D-9CBF780E9B99}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectLifetime", "ObjectLifetime\ObjectLifetime.csproj", "{B04E21A8-7547-42A3-8369-CABDC299ED61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnderstandingLINQ", "UnderstandingLINQ\UnderstandingLINQ.csproj", "{A803DF0E-6C44-48FB-9CB0-FB10DB4B8BB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,5 +45,9 @@ Global
 		{B04E21A8-7547-42A3-8369-CABDC299ED61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B04E21A8-7547-42A3-8369-CABDC299ED61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B04E21A8-7547-42A3-8369-CABDC299ED61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A803DF0E-6C44-48FB-9CB0-FB10DB4B8BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A803DF0E-6C44-48FB-9CB0-FB10DB4B8BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A803DF0E-6C44-48FB-9CB0-FB10DB4B8BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A803DF0E-6C44-48FB-9CB0-FB10DB4B8BB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
